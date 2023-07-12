@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
+import GetInTouch from "./SubComponents/GetInTouch";
 
 const MainPage = () => {
   return (
-    <div>MainPage</div>
-  )
-}
+    <div>
+      <GetInTouch />
+    </div>
+  );
+};
 
-export default MainPage
+export default MainPage;
