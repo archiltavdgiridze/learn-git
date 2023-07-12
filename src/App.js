@@ -15,8 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
+        <h3>
+          TIKO HAS CHANGED AS WELL. 
+        </h3>
       </header>
     </div>
   );
